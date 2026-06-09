@@ -2,7 +2,7 @@
   "name": "pricing-risk-mcp-server",
   "version": "1.0.0",
   "type": "module",
-  "description": "MCP server for live pricing risk data (FX, inflation, commodities)",
+  "description": "MCP server for live pricing risk data",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
